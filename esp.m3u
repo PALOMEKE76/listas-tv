@@ -1,0 +1,235 @@
+#EXTM3U
+#EXTINF:-1,24h HD
+http://176.65.146.237:8401/play/a094/index.m3u8
+#EXTINF:-1,A3Series
+http://176.65.146.237:8401/play/a0ai/index.m3u8
+#EXTINF:-1,AndaluciaTV
+http://176.65.146.237:8401/play/a09g/index.m3u8
+#EXTINF:-1,Antena 3
+http://176.65.146.237:8401/play/a0ae/index.m3u8
+#EXTINF:-1,BOM
+http://176.65.146.237:8401/play/a09d/index.m3u8
+#EXTINF:-1,BOM RADIO
+http://176.65.146.237:8401/play/a09o/index.m3u8
+#EXTINF:-1,BeMad tv HD
+http://176.65.146.237:8401/play/a0aj/index.m3u8
+#EXTINF:-1,Boing
+http://176.65.146.237:8401/play/a0ad/index.m3u8
+#EXTINF:-1,C.S.R. Malaga
+http://176.65.146.237:8401/play/a09a/index.m3u8
+#EXTINF:-1,CADENA 100
+http://176.65.146.237:8401/play/a09m/index.m3u8
+#EXTINF:-1,COPE
+http://176.65.146.237:8401/play/a0aa/index.m3u8
+#EXTINF:-1,Canal Fiesta R.
+http://176.65.146.237:8401/play/a09e/index.m3u8
+#EXTINF:-1,CanalSur2
+http://176.65.146.237:8401/play/a099/index.m3u8
+#EXTINF:-1,CanalSurHD
+http://176.65.146.237:8401/play/a09c/index.m3u8
+#EXTINF:-1,Clan HD
+http://176.65.146.237:8401/play/a09t/index.m3u8
+#EXTINF:-1,Cuatro HD
+http://176.65.146.237:8401/play/a09s/index.m3u8
+#EXTINF:-1,DIAL
+http://176.65.146.237:8401/play/a0a4/index.m3u8
+#EXTINF:-1,DKISS
+http://176.65.146.237:8401/play/a09y/index.m3u8
+#EXTINF:-1,DMAX
+http://176.65.146.237:8401/play/a09j/index.m3u8
+#EXTINF:-1,Disney Channel
+http://176.65.146.237:8401/play/a09h/index.m3u8
+#EXTINF:-1,Divinity
+http://176.65.146.237:8401/play/a09q/index.m3u8
+#EXTINF:-1,EUROPA FM
+http://176.65.146.237:8401/play/a0a7/index.m3u8
+#EXTINF:-1,Energy
+http://176.65.146.237:8401/play/a0ac/index.m3u8
+#EXTINF:-1,FDF
+http://176.65.146.237:8401/play/a09p/index.m3u8
+#EXTINF:-1,FlamencoRadio.com
+http://176.65.146.237:8401/play/a09b/index.m3u8
+#EXTINF:-1,GOL PLAY HD
+http://176.65.146.237:8401/play/a09k/index.m3u8
+#EXTINF:-1,HIT FM
+http://176.65.146.237:8401/play/a0a0/index.m3u8
+#EXTINF:-1,Kiss FM
+http://176.65.146.237:8401/play/a09z/index.m3u8
+#EXTINF:-1,LOS40
+http://176.65.146.237:8401/play/a0a3/index.m3u8
+#EXTINF:-1,LOS40 Classic
+http://176.65.146.237:8401/play/a0am/index.m3u8
+#EXTINF:-1,LOS40 Urban
+http://176.65.146.237:8401/play/a0an/index.m3u8
+#EXTINF:-1,La 1 HD
+http://176.65.146.237:8401/play/a095/index.m3u8
+#EXTINF:-1,La 1 UHD
+http://176.65.146.237:8401/play/a09u/index.m3u8
+#EXTINF:-1,La 2 HD
+http://176.65.146.237:8401/play/a098/index.m3u8
+#EXTINF:-1,MEGA
+http://176.65.146.237:8401/play/a0a5/index.m3u8
+#EXTINF:-1,Melodia FM
+http://176.65.146.237:8401/play/a0a8/index.m3u8
+#EXTINF:-1,ONDA CERO
+http://176.65.146.237:8401/play/a0a6/index.m3u8
+#EXTINF:-1,PARAMOUNT NETWORK
+http://176.65.146.237:8401/play/a09i/index.m3u8
+#EXTINF:-1,R.A.I. Malaga
+http://176.65.146.237:8401/play/a09f/index.m3u8
+#EXTINF:-1,RADIO MARCA
+http://176.65.146.237:8401/play/a09l/index.m3u8
+#EXTINF:-1,RADIO MARIA
+http://176.65.146.237:8401/play/a09n/index.m3u8
+#EXTINF:-1,RNE Andalucía
+http://176.65.146.237:8401/play/a096/index.m3u8
+#EXTINF:-1,Radio 5 RNE
+http://176.65.146.237:8401/play/a097/index.m3u8
+#EXTINF:-1,Radio Clasica HQ RNE
+http://176.65.146.237:8401/play/a09v/index.m3u8
+#EXTINF:-1,Radio Exterior RNE
+http://176.65.146.237:8401/play/a09x/index.m3u8
+#EXTINF:-1,Radio3 HQ RNE
+http://176.65.146.237:8401/play/a09w/index.m3u8
+#EXTINF:-1,Radiolé
+http://176.65.146.237:8401/play/a0ao/index.m3u8
+#EXTINF:-1,Realmadrid TV HD
+http://176.65.146.237:8401/play/a0ak/index.m3u8
+#EXTINF:-1,Rock FM
+http://176.65.146.237:8401/play/a0ab/index.m3u8
+#EXTINF:-1,SER
+http://176.65.146.237:8401/play/a0a2/index.m3u8
+#EXTINF:-1,TEN
+http://176.65.146.237:8401/play/a0al/index.m3u8
+#EXTINF:-1,TRECE
+http://176.65.146.237:8401/play/a0a9/index.m3u8
+#EXTINF:-1,Telecinco HD
+http://176.65.146.237:8401/play/a09r/index.m3u8
+#EXTINF:-1,esRadio
+http://176.65.146.237:8401/play/a0a1/index.m3u8
+#EXTINF:-1,laSexta
+http://176.65.146.237:8401/play/a0af/index.m3u8
+#EXTINF:-1,neox
+http://176.65.146.237:8401/play/a0ag/index.m3u8
+#EXTINF:-1,nova
+http://176.65.146.237:8401/play/a0ah/index.m3u8
+#EXTINF:-1,tdp HD
+http://176.65.146.237:8401/play/a093/index.m3u8
+
+
+#EXTINF:-1,24h HD
+http://176.65.146.93:8401/play/a094/index.m3u8
+#EXTINF:-1,A3Series
+http://176.65.146.93:8401/play/a0ai/index.m3u8
+#EXTINF:-1,AndaluciaTV
+http://176.65.146.93:8401/play/a09g/index.m3u8
+#EXTINF:-1,Antena 3
+http://176.65.146.93:8401/play/a0ae/index.m3u8
+#EXTINF:-1,BOM
+http://176.65.146.93:8401/play/a09d/index.m3u8
+#EXTINF:-1,BOM RADIO
+http://176.65.146.93:8401/play/a09o/index.m3u8
+#EXTINF:-1,BeMad tv HD
+http://176.65.146.93:8401/play/a0aj/index.m3u8
+#EXTINF:-1,Boing
+http://176.65.146.93:8401/play/a0ad/index.m3u8
+#EXTINF:-1,C.S.R. Malaga
+http://176.65.146.93:8401/play/a09a/index.m3u8
+#EXTINF:-1,CADENA 100
+http://176.65.146.93:8401/play/a09m/index.m3u8
+#EXTINF:-1,COPE
+http://176.65.146.93:8401/play/a0aa/index.m3u8
+#EXTINF:-1,Canal Fiesta R.
+http://176.65.146.93:8401/play/a09e/index.m3u8
+#EXTINF:-1,CanalSur2
+http://176.65.146.93:8401/play/a099/index.m3u8
+#EXTINF:-1,CanalSurHD
+http://176.65.146.93:8401/play/a09c/index.m3u8
+#EXTINF:-1,Clan HD
+http://176.65.146.93:8401/play/a09t/index.m3u8
+#EXTINF:-1,Cuatro HD
+http://176.65.146.93:8401/play/a09s/index.m3u8
+#EXTINF:-1,DIAL
+http://176.65.146.93:8401/play/a0a4/index.m3u8
+#EXTINF:-1,DKISS
+http://176.65.146.93:8401/play/a09y/index.m3u8
+#EXTINF:-1,DMAX
+http://176.65.146.93:8401/play/a09j/index.m3u8
+#EXTINF:-1,Disney Channel
+http://176.65.146.93:8401/play/a09h/index.m3u8
+#EXTINF:-1,Divinity
+http://176.65.146.93:8401/play/a09q/index.m3u8
+#EXTINF:-1,EUROPA FM
+http://176.65.146.93:8401/play/a0a7/index.m3u8
+#EXTINF:-1,Energy
+http://176.65.146.93:8401/play/a0ac/index.m3u8
+#EXTINF:-1,FDF
+http://176.65.146.93:8401/play/a09p/index.m3u8
+#EXTINF:-1,FlamencoRadio.com
+http://176.65.146.93:8401/play/a09b/index.m3u8
+#EXTINF:-1,GOL PLAY HD
+http://176.65.146.93:8401/play/a09k/index.m3u8
+#EXTINF:-1,HIT FM
+http://176.65.146.93:8401/play/a0a0/index.m3u8
+#EXTINF:-1,Kiss FM
+http://176.65.146.93:8401/play/a09z/index.m3u8
+#EXTINF:-1,LOS40
+http://176.65.146.93:8401/play/a0a3/index.m3u8
+#EXTINF:-1,LOS40 Classic
+http://176.65.146.93:8401/play/a0am/index.m3u8
+#EXTINF:-1,LOS40 Urban
+http://176.65.146.93:8401/play/a0an/index.m3u8
+#EXTINF:-1,La 1 HD
+http://176.65.146.93:8401/play/a095/index.m3u8
+#EXTINF:-1,La 1 UHD
+http://176.65.146.93:8401/play/a09u/index.m3u8
+#EXTINF:-1,La 2 HD
+http://176.65.146.93:8401/play/a098/index.m3u8
+#EXTINF:-1,MEGA
+http://176.65.146.93:8401/play/a0a5/index.m3u8
+#EXTINF:-1,Melodia FM
+http://176.65.146.93:8401/play/a0a8/index.m3u8
+#EXTINF:-1,ONDA CERO
+http://176.65.146.93:8401/play/a0a6/index.m3u8
+#EXTINF:-1,PARAMOUNT NETWORK
+http://176.65.146.93:8401/play/a09i/index.m3u8
+#EXTINF:-1,R.A.I. Malaga
+http://176.65.146.93:8401/play/a09f/index.m3u8
+#EXTINF:-1,RADIO MARCA
+http://176.65.146.93:8401/play/a09l/index.m3u8
+#EXTINF:-1,RADIO MARIA
+http://176.65.146.93:8401/play/a09n/index.m3u8
+#EXTINF:-1,RNE Andalucía
+http://176.65.146.93:8401/play/a096/index.m3u8
+#EXTINF:-1,Radio 5 RNE
+http://176.65.146.93:8401/play/a097/index.m3u8
+#EXTINF:-1,Radio Clasica HQ RNE
+http://176.65.146.93:8401/play/a09v/index.m3u8
+#EXTINF:-1,Radio Exterior RNE
+http://176.65.146.93:8401/play/a09x/index.m3u8
+#EXTINF:-1,Radio3 HQ RNE
+http://176.65.146.93:8401/play/a09w/index.m3u8
+#EXTINF:-1,Radiolé
+http://176.65.146.93:8401/play/a0ao/index.m3u8
+#EXTINF:-1,Realmadrid TV HD
+http://176.65.146.93:8401/play/a0ak/index.m3u8
+#EXTINF:-1,Rock FM
+http://176.65.146.93:8401/play/a0ab/index.m3u8
+#EXTINF:-1,SER
+http://176.65.146.93:8401/play/a0a2/index.m3u8
+#EXTINF:-1,TEN
+http://176.65.146.93:8401/play/a0al/index.m3u8
+#EXTINF:-1,TRECE
+http://176.65.146.93:8401/play/a0a9/index.m3u8
+#EXTINF:-1,Telecinco HD
+http://176.65.146.93:8401/play/a09r/index.m3u8
+#EXTINF:-1,esRadio
+http://176.65.146.93:8401/play/a0a1/index.m3u8
+#EXTINF:-1,laSexta
+http://176.65.146.93:8401/play/a0af/index.m3u8
+#EXTINF:-1,neox
+http://176.65.146.93:8401/play/a0ag/index.m3u8
+#EXTINF:-1,nova
+http://176.65.146.93:8401/play/a0ah/index.m3u8
+#EXTINF:-1,tdp HD
+http://176.65.146.93:8401/play/a093/index.m3u8
